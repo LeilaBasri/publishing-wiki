@@ -1,0 +1,2 @@
+# publishing-wiki
+simple wiki
